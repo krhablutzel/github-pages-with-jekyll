@@ -1,6 +1,6 @@
 ---
 title: "First Page"
-date: 2020-06-06
+date: "2020-06-06"
 ---
 
 This is my first post.
